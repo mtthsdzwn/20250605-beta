@@ -1,0 +1,147 @@
+---
+title: "Demonstrating Research Impact"
+subtitle: "Support from<br>Team Research Intelligence"
+author:
+  - name: Matthijs de Zwaan
+    # orcid: 0000-0002-6983-2118
+    email: researchintelligence.ub@vu.nl
+    affiliation: 
+      - name: University Library
+        url: https://vu.nl/en/about-vu/divisions/university-library/more-about/team-research-intelligence-makes-impact-visible
+lang: en
+date: "2025-02-24"
+date-format: "D MMMM YYYY"
+venue: "FBC/Science"
+format: 
+  revealjs:
+    slide-number: true
+    show-slide-number: print
+    theme: [simple, "stylefiles/VU-revealjs.scss"]
+    template-partials:
+      - "./stylefiles/title-slide.html"
+    preview-links: auto
+    callout-icon: false
+    center: false
+    scrollable: true
+---
+
+## Research Impact:<br>The Library's role
+
+::: { .callout-note }
+## Information Provision
+- Pure for registration
+- Access to metadata and derived indicators
+- Advice on responsible indicators
+:::
+
+:::: { .fragment fragment-index=4 .fade-out }
+
+::: { .fragment fragment-index=2 .absolute top="85%" left="5%" }
+Research Portal: <https://research.vu.nl/>
+:::
+
+![](img/rp-sdg.png){.fragment .shadow fragment-index=2 .absolute top="5%" left="10%" width="50%"}
+![](img/rp-altmetric.png){.fragment fragment-index=3 .shadow .absolute top="20%" left="20%" width="75%"}
+::::
+
+:::: {.fragment fragment-index=4}
+::: {.callout-note}
+## More active support
+- Analysis and interpretation
+- Focus on strategic decisions
+<!-- - 🎉 Team Research Intelligence 🎉 -->
+:::
+::::
+
+## What kind of support?
+
+::: {.callout-note}
+## We support by &#8230;
+- Collecting data
+  - &#8618;*for department, faculty*
+- Linking with metadata and indicators
+  - &#8618;*citations, media attention, policy impact, SDGs*
+- Providing insights to improve decision-making
+  - &#8618;*visualizations, interactive dashboards*
+:::
+
+::::: {.callout-note icon=false}
+## How is this used?
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- *Strategy Evaluation Protocol*
+- Self-evaluations
+:::
+::: {.column width="50%"}
+- Opportunities for collaboration
+- Exploration for appointments
+:::
+
+::: {.column width="10%"}
+
+- &#8230;
+:::
+::::
+:::::
+
+::: {.notes}
+Goal of the slide: 
+Pitch what RI does 
+:::
+
+## Support ACS
+
+<!-- <iframe title="ACS dashboard" width="1050" height="540"  frameborder="0" allowFullScreen="true" src="https://app.powerbi.com/view?r=eyJrIjoiMmM0YzQ0ZWUtODdlOS00ZmNkLTg3NzYtMDM2ZDJkYWM0NjU1IiwidCI6IjQ2MmE5YzljLTJkYTYtNGJmYi1iMzE4LTBmODMwNDNmZTQ5YiIsImMiOjh9&pageName=ReportSection39deada3246d11d7624d">
+</iframe> -->
+
+![Dashboard screenshot](img/db-screen.png){.lightbox}
+
+
+## Developments
+
+::: {.callout-note}
+## New indicators
+
+- For more flexible SEP
+- For Recognition and Rewards
+- For Open science
+- For evaluation and monitoring
+:::
+
+::: {.callout-note}
+## New data sources
+- Open Research *Information*
+  - &#8618; Open Research *Assessment*
+:::
+
+## New indicators
+
+::: {.callout-note}
+## R&R: New expectations, new evaluations
+- More than 'counting publications'
+- More emphasis on other forms of output and impact
+- New indicators needed
+:::
+
+## Open RI Tools:<br/>Collaboration with the global south
+
+![](img/tools-globalsouth.png)
+
+## Open research information
+
+::: {.callout-note}
+## Context
+- UB important role in OS movement
+- Availability of open data
+- National and international initiatives
+:::
+
+::: {.fragment fragment-index=1 .absolute top="5%" left="10%" width="75%" height="auto"} 
+[![](img/openaire.png)](https://netherlands.openaire.eu/)
+:::
+
+::: {.fragment fragment-index=2 .shadow .absolute top="40%" left="35%" width="75%"}
+[![](img/openalex.png)](https://openalex.org/works?page=1&filter=publication_year%3A2020-2024,authorships.institutions.lineage%3Ai865915315,primary_topic.field.id%3Afields%2F20%7Cfields%2F14,type%3Atypes%2Farticle&sort=citation_normalized_percentile.value%3Adesc&id=rQikqBFdMmqrJ9FGgbSrp6&group_by=publication_year,open_access.is_oa,primary_topic.id,authorships.institutions.lineage,type,primary_topic.field.id)
+:::
