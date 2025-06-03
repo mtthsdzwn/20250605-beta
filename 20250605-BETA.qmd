@@ -91,12 +91,9 @@ Goal of the slide:
 Pitch what RI does 
 :::
 
-## Support ACS
+## {#dashboard data-menu-title="Dashboard example"}
 
-<!-- <iframe title="ACS dashboard" width="1050" height="540"  frameborder="0" allowFullScreen="true" src="https://app.powerbi.com/view?r=eyJrIjoiMmM0YzQ0ZWUtODdlOS00ZmNkLTg3NzYtMDM2ZDJkYWM0NjU1IiwidCI6IjQ2MmE5YzljLTJkYTYtNGJmYi1iMzE4LTBmODMwNDNmZTQ5YiIsImMiOjh9&pageName=ReportSection39deada3246d11d7624d">
-</iframe> -->
-
-![Dashboard screenshot](img/db-screen.png){.lightbox}
+![](img/db-screen.png){.lightbox}
 
 
 ## Developments
