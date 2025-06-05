@@ -9,7 +9,7 @@ author:
       - name: University Library
         url: https://vu.nl/en/about-vu/divisions/university-library/more-about/team-research-intelligence-makes-impact-visible
 lang: en
-date: "2025-02-24"
+date: "2025-06-05"
 date-format: "D MMMM YYYY"
 venue: "FBC/Science"
 format: 
