@@ -142,3 +142,19 @@ Pitch what RI does
 ::: {.fragment fragment-index=2 .shadow .absolute top="40%" left="35%" width="75%"}
 [![](img/openalex.png)](https://openalex.org/works?page=1&filter=publication_year%3A2020-2024,authorships.institutions.lineage%3Ai865915315,primary_topic.field.id%3Afields%2F20%7Cfields%2F14,type%3Atypes%2Farticle&sort=citation_normalized_percentile.value%3Adesc&id=rQikqBFdMmqrJ9FGgbSrp6&group_by=publication_year,open_access.is_oa,primary_topic.id,authorships.institutions.lineage,type,primary_topic.field.id)
 :::
+
+## Takeaways
+
+::: {.callout-note }
+## Research Intelligence
+- 📊 Research Intelligence supports research units in making informed decisions
+- 🔍 We provide data, insights, and tools to analyse research impact
+- 🤝 Flexible and collaborative, tailored to use case.
+:::
+
+::: {.callout-note }
+## Innovation and collaboration
+- 🚀 Many new developments for research assessment
+- 💡 We are open to new ideas and collaboration
+- 📬 [Contact us](mailto:researchintelligence.ub@vu.nl) for support or collaboration!
+:::
